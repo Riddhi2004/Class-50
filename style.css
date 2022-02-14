@@ -1,0 +1,33 @@
+*{
+    background-color: aqua;
+}
+h1{
+    color: rgb(69, 13, 221);
+     
+}z
+
+.header{
+
+    justify-content: space-between;
+    display: flex;
+}
+.side-description{
+    display: flex;
+    
+    justify-content: space-evenly
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.item{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    
+    
+}
+h2,h3{
+    text-align: center;
+}
